@@ -1,0 +1,63 @@
+{
+  "description" : "",
+  "name" : "Tracking",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1519748946.978416,
+      "modificationDate" : 1531242607.7229991,
+      "owner" : "any",
+      "priority" : "high",
+      "process" : "any",
+      "remote-domains" : "newrelic.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1508413698.864702,
+      "modificationDate" : 1531242611.767312,
+      "owner" : "any",
+      "process" : "any",
+      "remote-hosts" : "google-analytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1508260219.3777089,
+      "modificationDate" : 1531242627.6061091,
+      "owner" : "any",
+      "process" : "any",
+      "remote-hosts" : "analytics.twitter.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1508488046.2809491,
+      "modificationDate" : 1508488064.0595419,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "doubleclick.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1508414312.970346,
+      "modificationDate" : 1508414326.8528371,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "crashlytics.com"
+    },
+    {
+      "action" : "deny",
+      "ports" : "443",
+      "process" : "\/Applications\/Docker.app\/Contents\/MacOS\/Docker",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.wootric.com",
+      "notes": "Tracking."
+    },
+    {
+      "action" : "deny",
+      "ports" : "443",
+      "process" : "\/Applications\/Docker.app\/Contents\/MacOS\/Docker",
+      "protocol" : "tcp",
+      "remote-hosts" : "api.segment.io",
+      "notes": "Tracking."
+    }
+  ]
+}
