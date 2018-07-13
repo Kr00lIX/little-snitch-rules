@@ -1,0 +1,169 @@
+{
+  "description" : "",
+  "name" : "Sync Limit",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1531206768.8572659,
+      "modificationDate" : 1531206799.7552462,
+      "owner" : "me",
+      "process" : "\/private\/var\/folders\/m0\/8ds2sw3s5_qc6ntm9ncp910w0000gn\/T\/Amazon Drive Installer.app\/Contents\/MacOS\/Amazon Drive Installer",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531208813.6949129,
+      "modificationDate" : 1531208832.252768,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Arq.app\/Contents\/Library\/LoginItems\/Arq Agent.app\/Contents\/Resources\/arq_updater",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531208782.794992,
+      "direction" : "incoming",
+      "modificationDate" : 1531208782.794992,
+      "owner" : "me",
+      "process" : "\/Applications\/Arq.app\/Contents\/Library\/LoginItems\/Arq Agent.app\/Contents\/Resources\/arqcommitter",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531208727.383836,
+      "modificationDate" : 1531208744.6154819,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Arq.app\/Contents\/Library\/LoginItems\/Arq Agent.app\/Contents\/Resources\/arqcommitter",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531242988.3609519,
+      "modificationDate" : 1531243007.374917,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531312753.444761,
+      "direction" : "incoming",
+      "modificationDate" : 1531312753.444761,
+      "owner" : "me",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531312782.065506,
+      "modificationDate" : 1531312782.065506,
+      "owner" : "me",
+      "process" : "\/Applications\/Dropbox.app\/Contents\/MacOS\/Dropbox",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1514905169.420449,
+      "modificationDate" : 1531312833.8784928,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Users\/kr00lix\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Resources\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531312894.232132,
+      "modificationDate" : 1531312917.9115438,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Library\/Internet Plug-Ins\/JavaAppletPlugin.plugin\/Contents\/Resources\/Java Updater.app\/Contents\/MacOS\/Java Updater",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531306827.1486568,
+      "modificationDate" : 1531306849.5858378,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Notes.app\/Contents\/MacOS\/Notes",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531207675.059443,
+      "direction" : "incoming",
+      "modificationDate" : 1531207702.899334,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531205427.1004319,
+      "modificationDate" : 1531206842.654429,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/usr\/libexec\/nsurlsessiond",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531242201.2049961,
+      "direction" : "incoming",
+      "modificationDate" : 1531242232.673526,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/HDBox\/Setup",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531306666.3471479,
+      "modificationDate" : 1531314549.5552731,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/System\/Library\/CoreServices\/Software Update.app\/Contents\/Resources\/softwareupdated",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531207569.1766319,
+      "direction" : "incoming",
+      "modificationDate" : 1531207569.1766319,
+      "owner" : "me",
+      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531208259.742507,
+      "disabled" : true,
+      "modificationDate" : 1531229045.3398108,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Spotify.app\/Contents\/MacOS\/Spotify",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531313067.1279311,
+      "direction" : "incoming",
+      "modificationDate" : 1531313067.1279311,
+      "owner" : "me",
+      "process" : "\/Applications\/Transmission.app\/Contents\/MacOS\/Transmission",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1531313033.9787722,
+      "modificationDate" : 1531313047.093936,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/Applications\/Transmission.app\/Contents\/MacOS\/Transmission",
+      "remote" : "any"
+    }
+  ]
+}
