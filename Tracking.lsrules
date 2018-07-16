@@ -58,6 +58,14 @@
       "protocol" : "tcp",
       "remote-hosts" : "api.segment.io",
       "notes": "Tracking."
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1521634426.2941132,
+      "modificationDate" : 1531737903.855634,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "facebook.com"
     }
   ]
 }
