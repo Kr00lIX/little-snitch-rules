@@ -4,14 +4,6 @@
   "rules" : [
     {
       "action" : "deny",
-      "creationDate" : 1531206768.8572659,
-      "modificationDate" : 1531206799.7552462,
-      "owner" : "me",
-      "process" : "\/private\/var\/folders\/m0\/8ds2sw3s5_qc6ntm9ncp910w0000gn\/T\/Amazon Drive Installer.app\/Contents\/MacOS\/Amazon Drive Installer",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1531208813.6949129,
       "modificationDate" : 1531208832.252768,
       "owner" : "me",
