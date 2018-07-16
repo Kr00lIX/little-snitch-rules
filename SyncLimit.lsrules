@@ -130,6 +130,14 @@
     },
     {
       "action" : "deny",
+      "creationDate" : 1531761955.541965,
+      "modificationDate" : 1531761955.541965,
+      "owner" : "me",
+      "process" : "\/Applications\/Amazon Drive.app\/Contents\/MacOS\/Amazon Drive",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
       "creationDate" : 1531207569.1766319,
       "direction" : "incoming",
       "modificationDate" : 1531207569.1766319,
