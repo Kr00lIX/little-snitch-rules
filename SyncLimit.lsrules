@@ -164,6 +164,15 @@
       "priority" : "high",
       "process" : "\/Applications\/Transmission.app\/Contents\/MacOS\/Transmission",
       "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1532540808.9666939,
+      "modificationDate" : 1532540823.459286,
+      "owner" : "me",
+      "priority" : "high",
+      "process" : "\/System\/Library\/CoreServices\/cloudphotosd.app\/Contents\/MacOS\/cloudphotosd",
+      "remote" : "any"
     }
   ]
 }
